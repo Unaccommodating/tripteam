@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489112658764",
+    "project_id": "dbapp-28831",
+    "storage_bucket": "dbapp-28831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489112658764:android:de932273c093ed23a7e5e9",
+        "android_client_info": {
+          "package_name": "com.example.city_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489112658764-41jq668v9ukfuq63cgsctnl7n6ehafa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-RJlAgRb7u0AC8c8DzxmmvbNvhsMxVMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489112658764-41jq668v9ukfuq63cgsctnl7n6ehafa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
